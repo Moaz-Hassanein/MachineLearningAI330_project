@@ -1,7 +1,7 @@
 ### Machine Learning Project
 
 Numerical Dataset:
-
+https://www.kaggle.com/datasets/prasad22/healthcare
 
 Image Dataset:
-https://github.com/zalandoresearch/fashion-mnist
+https://www.kaggle.com/datasets/zalando-research/fashionmnist
